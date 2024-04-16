@@ -11,8 +11,8 @@
 #    artifact-name: corne_left_with_logging
 ---
 include:
-#  - board: pillbug
-#    shield: bb40
+  - board: pillbug
+    shield: bb40
 #  - board: pillbug
 #    shield: bb65
 #  - board: pillbug
